@@ -674,6 +674,66 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerArmature 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7258278490236603921, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317141631562248033, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.04513607
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317141631562248033, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.049156077
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317141631562248033, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 0.2582219
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317141631562248033, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0.000000045657885
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317141631562248033, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.09963818
+      objectReference: {fileID: 0}
+    - target: {fileID: 8317141631562248033, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Center.z
+      value: -0.013752566
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351217795030164466, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.049156077
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351217795030164466, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 0.2582219
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351217795030164466, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0.000000045657885
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351217795030164466, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0.09963818
+      objectReference: {fileID: 0}
+    - target: {fileID: 8351217795030164466, guid: 159e8ee830806ba498db8eae3ab30e87,
+        type: 3}
+      propertyPath: m_Center.z
+      value: -0.013752566
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
